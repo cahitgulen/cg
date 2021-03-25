@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# CAHİT GÜLEN
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
