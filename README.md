@@ -1,5 +1,5 @@
 # CAHİT GÜLEN
-![](img/newlogo.png)
+![](img/Ilogo.png)
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Cahit  
